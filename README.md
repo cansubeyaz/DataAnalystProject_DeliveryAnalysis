@@ -22,8 +22,8 @@ This project analyzes a last-mile delivery dataset using Python (Jupyter Noteboo
 | File Name                         | Description                                     |
 |----------------------------------|-------------------------------------------------|
 | `delivery_data_analysis.ipynb`   | Jupyter Notebook for data cleaning & analysis   |
-| `delivery_dataset_powerbi.csv`   | Dataset used for Power BI dashboard             |
-| `dashboard_screenshot.png`       | Screenshot of the final Power BI dashboard      |
+| `delivery_dataset.csv`           | Dataset used for Power BI dashboard             |
+| `powerbi_dashboard_delivery.png` | Screenshot of the final Power BI dashboard      |
 
 ---
 
