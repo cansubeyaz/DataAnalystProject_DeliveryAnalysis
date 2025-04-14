@@ -41,7 +41,7 @@ The dashboard presents:
 - **Order Volume by Area**  
 - **Orders by Category (Fast vs. Slow)**  
 
-
+![Dashboard Screenshot](powerbi_dashboard_delivery.png)
 
 ---
 
