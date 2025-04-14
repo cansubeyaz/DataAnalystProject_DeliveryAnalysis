@@ -45,9 +45,5 @@ The dashboard presents:
 
 ---
 
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/delivery-performance-analysis.git
-   cd delivery-performance-analysis
+## Author
+Cansu Beyaz
