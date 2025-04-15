@@ -9,12 +9,6 @@ This project analyzes a last-mile delivery dataset using Python (Jupyter Noteboo
 - Visualize fast vs. slow deliveries across product categories.
 - Identify trends to help optimize logistics strategies.
 
-### Tools & Technologies
-- Python 
-- Jupyter Notebook
-- Power BI
-- CSV for data input
-
 ---
 
 ## Files Included
