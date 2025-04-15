@@ -10,7 +10,7 @@ This project analyzes a last-mile delivery dataset using Python (Jupyter Noteboo
 - Identify trends to help optimize logistics strategies.
 
 ### Tools & Technologies
-- Python (Pandas, Matplotlib, Seaborn)
+- Python 
 - Jupyter Notebook
 - Power BI
 - CSV for data input
