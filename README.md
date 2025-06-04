@@ -1,6 +1,6 @@
 # 📦 Delivery Dataset Analysis
 
-This project analyzes a last-mile delivery dataset using Python (Jupyter Notebook) and visualizes insights through an interactive Power BI dashboard. The goal is to uncover patterns and key metrics related to delivery performance, such as average delivery time, order volume by area, and the impact of traffic and weather conditions.
+This project analyzes a delivery dataset using Python (Jupyter Notebook) and visualizes insights through an interactive Power BI dashboard. The goal is to uncover patterns and key metrics related to delivery performance, such as average delivery time, order volume by area, and the impact of traffic and weather conditions.
 
 ## Project Overview
 
